@@ -2,7 +2,7 @@
   <img src = "https://github.com/user-attachments/assets/a5941b2b-8e9f-434f-9002-04ee8dc2df37" alt = "NASA headshot" width = "300"/>
 </p>
 
-## About Me
+# About Me
 **Tessa Volpe**  
 Simmons University  
 *Bachelors of Science in Data Science and Analytics, anticipated May 2026*  
@@ -15,7 +15,7 @@ I am currently a NASA JSC Summer Intern and Fellow with MIT's Break Through Tech
 - Email: Tessa.Volpe@Simmons.edu
 
 # MIT-Break-Through-Tech-AI Project Portfolio
-This repository contains projects I completed through my fellowship with Break Through Tech AI at MIT Schwartzman College of Computing
+This [repository](https://github.com/tessa-v11/MIT-Break-Through-Tech-AI) contains projects I completed through my fellowship with Break Through Tech AI at MIT Schwartzman College of Computing
 
 ## Fall AI Studio Project placeholder
 
