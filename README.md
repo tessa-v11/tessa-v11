@@ -1,7 +1,3 @@
-<p align = "center">
-  <img src = "https://github.com/user-attachments/assets/a5941b2b-8e9f-434f-9002-04ee8dc2df37" alt = "NASA headshot" width = "300"/>
-</p>
-
 # About Me
 **Tessa Volpe**  
 Simmons University  
