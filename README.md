@@ -1,7 +1,7 @@
 # About Me
 **Tessa Volpe**  
 Simmons University  
-*Bachelors of Science in Data Science and Analytics, anticipated May 2026*  
+*Bachelor of Science in Data Science and Analytics, anticipated May 2026*  
 
 I am a Data Science & Analytics student at Simmons University who is interested in how data can be used to better understand people, systems, and decisions. I enjoy working with real-world datasets, building clean visualizations, and exploring how data can drive meaningful impact, especially in areas like healthcare, sports, and education.
 I am currently a NASA JSC Summer Intern and Fellow with MIT's Break Through Tech AI program. I am still early in my career and am eager to continue learning from coursework, hands-on projects, and the people around me. I care about asking good questions, communicating clearly, and doing work that’s thoughtful and useful.
